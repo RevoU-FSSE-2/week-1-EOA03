@@ -3,7 +3,7 @@
 # Welcome to My First Assignment
 This is my personal website that I made using HTML and CSS. This website is deployed using Netlify. Here is a sneak peek of my website.
 
-![sneakpeak](D://Ester/Assignment/W1/PersonalWeb.PNG)
+![sneakpeak](https://github.com/RevoU-FSSE-2/week-1-EOA03/blob/main/PersonalWeb.PNG)
 
 ## Link Netlify
 This is the [link](https://week-1-eoa03.netlify.app/) to open the website using Netlify.
